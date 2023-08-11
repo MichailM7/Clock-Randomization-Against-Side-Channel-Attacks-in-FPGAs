@@ -1,1 +1,1 @@
-![Example Image](./Architecture_AES_V1.pdf)
+![Example Image](./Architecture_AES_V1.png)
