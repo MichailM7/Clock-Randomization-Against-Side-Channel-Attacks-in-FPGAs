@@ -1,1 +1,1 @@
-![Example Image](./Architecture_AES_V1.png)
+![Countermeasure ARchitecture](./Architecture_AES_V1.png)
